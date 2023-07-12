@@ -1,4 +1,4 @@
-<h1 align="center">LSTM-autoencoder with attentions for multivariate time series</h1>
+<h1 align="center">A-Pattern-Matching-Memory-network-for-Traffic-forcasting</h1>
 
 <p align="center">
     <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FJulesBelveze%2Ftime-series-autoencoder" alt="Hits">
@@ -7,17 +7,17 @@
 
 This repository contains an autoencoder for multivariate time series forecasting.
 It features two attention mechanisms described
-in *[A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/abs/1704.02971)*
-and was inspired by [Seanny123's repository](https://github.com/Seanny123/da-rnn).
+in *[A-Pattern-Matching-Memory-network-for-Traffic-forcasting](https://openreview.net/pdf?id=wwDg3bbYBIq)*
+and was inspired by [this repository](https://github.com/HyunWookL/PM-MemNet).
 
-![Autoencoder architecture](autoenc_architecture.png)
+![Autoencoder architecture](model_arc.png)
 
 ## Download and dependencies
 
 To clone the repository please run:
 
 ```
-git clone https://github.com/JulesBelveze/time-series-autoencoder.git
+git clone https://github.com/Debargho99/A-Pattern-Matching-Memory-network-for-Traffic-forcasting.git
 ```
 
 To install all the required dependencies please run:
@@ -90,5 +90,5 @@ You can find under the `examples` scripts to train the model in both cases:
 
 * reconstruction: the dataset can be found [here](https://gist.github.com/JulesBelveze/99ecdbea62f81ce647b131e7badbb24a)
 * forecasting: the dataset can be found [here](https://gist.github.com/JulesBelveze/e9997b9b0b68101029b461baf698bd72)
-  
+ 
   
