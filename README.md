@@ -1,9 +1,5 @@
 <h1 align="center">A-Pattern-Matching-Memory-network-for-Traffic-forcasting</h1>
 
-<p align="center">
-    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FJulesBelveze%2Ftime-series-autoencoder" alt="Hits">
-  <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg">
-</p>
 
 This repository contains an autoencoder for multivariate time series forecasting.
 It features two attention mechanisms described
